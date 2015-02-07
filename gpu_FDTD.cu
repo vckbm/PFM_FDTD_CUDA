@@ -32,7 +32,7 @@ const float C1_BETA = 0.5;
 
 // courbures energie libre J.m-3
 const float K1_ALPHA = 1.e+9 / E;
-const float K1_BETA = 1.e+9 / E;
+const float K1_BETA = 2.e+9 / E;
 
 const float C2_ALPHA = 0.1;
 const float C2_BETA = 0.5;
