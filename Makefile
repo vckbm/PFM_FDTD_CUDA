@@ -4,7 +4,7 @@ gpu:
 	nvcc -o gpu gpu_FDTD.cu
 
 clean:
-	rm *.txt
+	rm *.txt *.png
 
 restart:
 	rm *.txt
